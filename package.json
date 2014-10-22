@@ -1,0 +1,18 @@
+{
+  "name": "data_structures_js",
+  "version": "0.0.1",
+  "description": "Data Structures in Javascript",
+  "author": "Reed Nelson-Saunders <reedness3000@gmail.com>",
+  "devDependencies": {
+    "blanket": "^1.1.6",
+    "chai": "*",
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-mocha-test": "^0.12.1",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
